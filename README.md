@@ -1,6 +1,6 @@
 # Project-1-Data_Vis_Spotify
 
-On Branch Main you will find the poerpoint file and the initial spotify document proposal
+On Branch Main you will find the powerpoint file and the initial spotify document proposal
 
 In Branch "ifa-task1" you will find the following which was done by Ifa:
 #Finding out artist with the most extensive collection of tracks and the artist with the highest popularity score.
